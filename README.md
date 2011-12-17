@@ -36,7 +36,7 @@ Add the 'PHPExcel' prefix to your autoloader:
 // app/autoload.php
 $loader->registerPrefixes(array(
     // ...
-    'PHPExcel'         => __DIR__.'/../vendor/phpexcel/classes/'
+    'PHPExcel'         => __DIR__.'/../vendor/phpexcel/Classes/'
 ));
 ```
 
