@@ -1,0 +1,15 @@
+{
+    "name": "phpexcel/phpexcel",
+    "description": "PHPExcel - OpenXML - Create Excel2007 documents in PHP - Spreadsheet engine",
+    "keywords": [ "excel", "xls" ],
+    "homepage": "http://phpexcel.codeplex.com",
+    "license": "GNU",
+    "require": {
+        "php": ">5.2.0"        
+    },
+    "autoload": {
+        "psr-0": {
+            "PHPExcel_": "Classes"
+        }
+    }
+}
