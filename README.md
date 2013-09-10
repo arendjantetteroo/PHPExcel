@@ -1,3 +1,5 @@
+# This mirror is deprecated. Please use the official one, [phpoffice/phpexcel](https://github.com/PHPOffice/PHPExcel), instead.
+
 # PHPExcel
 
 This repository contains the unchanged [source code of PHPExcel](http://phpexcel.codeplex.com), 
