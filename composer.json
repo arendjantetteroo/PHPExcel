@@ -1,7 +1,6 @@
 {
     "name": "phpexcel/phpexcel",
-    "description": "PHPExcel - OpenXML - Create Excel2007 documents in PHP - Spreadsheet engine",
-    "keywords": [ "excel", "xls" ],
+    "description": "DEPRECATED! Use phpoffice/phpexcel instead.",
     "homepage": "http://phpexcel.codeplex.com",
     "license": "GNU",
     "require": {
